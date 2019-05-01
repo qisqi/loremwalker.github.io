@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[浏览，plantuml]]></title>
+    <url>%2Fnote%2F2019%2F05-02%2Fd9e05b9b.html</url>
+    <content type="text"><![CDATA[#1 搜索jdk进入官网download，接受许可及下载并安装 下载graphviz，注意： graphviz 不要安装在C盘上，否则配置环境变量无效 安装完成后运行 sysdm.cpl 打开环境变量并点击高级 环境变量 path变量 值路径要与JDK的安装路径一致，graphviz同理。 #2 下载并安装 搜索并安装插件 打开测试用的流程图 test.wsd]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+      <tags>
+        <tag>graphviz</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[2019年4月21日 星期日 阵雨]]></title>
+    <url>%2Fnote%2F2019%2F04-21%2F98994ef8.html</url>
+    <content type="text"><![CDATA[天气实在太差了，搞不好这几个月都是这样…看屏幕外观不良，一个多小时的时间，听了一个胖女人的无聊爱情故事：因在一起五年的男友家庭条件不行，俩人执意在一起后，她娘亲自喝农药自杀相逼，为此她换了三个男友。家亲学历显赫从商从政，为了爱情的自由，来富士康打工。 听到胖女人介绍她家庭背景，维修半开玩笑半认真的那种动作问那个胖女人的微信（可能吧…不感兴趣），又说如果我来做你男朋友blablabla；判机的时候，维修还问我觉得她说的真假（哦哦，呵呵）；听着她说出和他男友海誓山盟的话，太好笑了…真他妈有趣，这个故事让我想到在事业群的二楼，等下班一个男人向大家诉说他就像电视剧般的爱情故事，他爷爷也是已死反对他与被强奸的女孩结婚。真无聊… 改善跑到维修区催着我看那些不良，看不良项的不时老会想起要一个近视看屏幕是否存在0.02的物体，这太扯了。刚心里想完这些，改善又说：你那个老乡想你了。（…）维修顺着问我是否找了，我只回答“呃，…”。写到这里，想起了也是大雨那天，安管给我撑伞跟我说：跟你差不多身高的男友，我都没这么累。我始终觉得奇怪，最后她说她男友帮她打伞，我才明白了…她问我是否有女朋友，然后也是打算介绍对象…（我不知道遇到富士康工友，老是催对象是什么原因） 不清楚，摸不着头脑的事啊，我问安管：我又不帅也没学历更没钱，我就一普工又没什么显眼的表现，为什么还给介绍对象呢？得到了“看的顺眼，人挺好的，单身啊”的回答…]]></content>
+      <categories>
+        <category>心情</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[不再从事相关编程]]></title>
+    <url>%2Fnote%2F2019%2F04-07%2F90761367.html</url>
+    <content type="text"><![CDATA[原来除了做个码农，还有那么多有职业可选择，在网上搜索下职位又到知乎了解下情况；即使闲职被关系占据其中，但还是有不少可选的。技能和学历都是大街众人水准，现已供过于求又太过执着于开发导致失业，浪费了时间和金钱还有就业到好的岗位，简直白费生命。 认了比自己还小的“姐”到富士康做普工，学历不高、入世较早；待人处世与社会原则等方面比同龄校园大学生稳重成熟的多，当时对我来内心来说特别震撼。19岁，我还在旷课看动漫、打游戏、修电脑做个otaku，社交、旅行等方面真的等于零，我还没入世之前，跟个巨婴基本没差别。 好几年前在码农群里闲聊时，看到群友又被培训机构收了过万元的学费，就想做个收集培训机构的repo，当时还没有相关repo，且我维护翻墙项目真的太费时间，还要上班到很晚。失败了好几次没成功，那就当是借口好吧；现在又出现了同样的事情，而且这画大饼的智商税已经征收到2w以上，简直触目惊心。 综上，由此就开始重新做这相关repo并完善下去，令我意外和高兴的是：真的已经有人开始着手做这个搜集黑心机构的名单了。我知道已不在是一开始几乎是一人孤军奋战的感觉，这下我会轻松很多。于是遍开始研究这些吸血机构拉人的运作方式，与名单repo综合在一起并发表在GitHub上。]]></content>
+      <categories>
+        <category>特别篇</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[Sunny Mar.31th 2019 Sunday]]></title>
+    <url>%2Fnote%2F2019%2F03-31%2F3c30c988.html</url>
+    <content type="text"><![CDATA[I’m sick and tried of spam. bcuz,many a stupid HR promised the moon for me, and it gets on my nervous. I really lost my cool during the interview. It’s a Catch-22 situation - without experience you can’t get a job and without a job you get experience.THAT IS SO INTERESTING. Just so you know,I’m not a java programmer now ! Stop bothering me ! You’re barking up the wrong tree. 3.31]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[February 19th Tue Showers cleared up]]></title>
+    <url>%2Fnote%2F2019%2F02-19%2Fa43ba177.html</url>
+    <content type="text"><![CDATA[Bao Dynasty has a long history. if it’s true,please put a tick in the box.]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[February 7th Thu Sunny]]></title>
+    <url>%2Fnote%2F2019%2F02-07%2Ff58db4cf.html</url>
+    <content type="text"><![CDATA[Whose face is on the 1 CNY ? Suck Bacon !]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[February 5th Tues Sunny]]></title>
+    <url>%2Fnote%2F2019%2F02-05%2F633e26c9.html</url>
+    <content type="text"><![CDATA[I take a photo on my Nokia and then go home.That’s it.]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[February 3rd Sun Sunny]]></title>
+    <url>%2Fnote%2F2019%2F02-03%2F36156879.html</url>
+    <content type="text"><![CDATA[I haven’t written a diary for a while.I don’t like delaying my work, If I don’t do it in time, I’ll probably give it up in the end.]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[2018年12月30日 星期日 晴]]></title>
+    <url>%2Fnote%2F2018%2F12-30%2F413a6235.html</url>
+    <content type="text"><![CDATA[富士康，是我初次接触社会以来进去的第一家公司。不懂规矩、太过大意犯二导致很多麻烦，就在驻场期间字节跳动打算推个前端开发给我，曾几何时我也想走了啊，但从实际考虑下可能吗？其实不从事本行的也是大有人在，我只是其中之一罢了，也没人强制非要科班出身才能干所专业上的事。 现在找到一份理想的工作并不容易，处理好关系也不是容易的事，我也知道现所在部门的领导和同事待我不薄，我听到的最多一句话就是简简单单的三个字：好好干。同时，我决定不走了，留在富士康，他们其实很优秀。 其实看别人写写发发朋友圈或是空间什么的，比自己发到这些平台有意思的多…]]></content>
+      <categories>
+        <category>记事</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[2018年12月20日 星期四 晴 （密码）]]></title>
+    <url>%2Fnote%2F2018%2F12-20%2Fcee33e6c.html</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>特别篇</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[2018年12月15日 星期六 晴转中雨]]></title>
+    <url>%2Fnote%2F2018%2F12-15%2F905b0a26.html</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>图片</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[2018年12月5日 星期三 雨]]></title>
+    <url>%2Fnote%2F2018%2F12-05%2F4acf4e92.html</url>
+    <content type="text"><![CDATA[（零）40岁以下35岁左右封顶，初高中或大专文化，也是无奈的汇集在一起，进厂的基层员工的多数如此；如果不忙厂能不高也就不会被欺诈安排出差了，18云倒是虚拟定位打卡。 我现在才知道，为什么有的人是真的不愿被派去出差了（实际上是驻场），工种的不同，实在是底层苦力的，可以去；知道的人这么少是因为多数已经不能（回来的话多数情况下只能离职或辞职）或不想回来了，或许是知道太多太多秘密了吧。 让我知道学历没用的除了其本身的价值还有关系，往往人们最喜欢隐藏最真实的目的或原因，发现又需要很多代价；想起一只猴子去拿香蕉，然后所有猴子被淋湿而挨打，一周之后又换一只新猴如此循环，久而久之也不知为何但就是不能动那香蕉的话题，虽然是假事件，但道理确实也得到了我的事例的印证。 那么新人与旧人有什么不同呢？混熟与不熟又是怎么一回事呢？全是关系，轻松与否可以说百分之八十左右，二八定律。 （一）学生工、大妈大叔、壮年人、社会青年的汇聚之处，其实做事多是学规矩和方式，同工种之间人与人真的多少差别；在乎学历吗？不在乎。在乎具体的年龄吗？也不太在乎。在乎性别吗？其实也不多。在乎个人经历吗？基本没有。真的在乎只是本职工作的是否能干好，这能否干好是否会影响自己工作好的方面或坏的方面，从而做出不同的选择和行为，来达到目的，可以说。 想起维克多的经历，又感觉自己也是有些相似，只不过我是做活领工资，本质其实也差不多；这个资本主义社会真实的实际的核心是没多少人情，财主的同情心吧，朋友的同情心吧；我基本上被家里赶出来，也不一样也是不回不去了吗？ 还是一样，我也认同了人活着最终都是为了自己爽，很直，很白，往往又隐藏的很深很感情…但实质又是怎么回事，自己都不知道，付诸行动的代价又是时间与生命… （二）得到的是什么，经验？快乐？痛苦？结束还是继续…QIANMONEY如今的确是立足之本呢，不顾一些原则与自尊或是道德的追寻，不择手段也是为了活，更好的活，多数，多数仅此而已。资本家的大工厂已经是创造就业的价值了，剩下就是剥削了；个体呢？像是零件，好一点的资本家话，吃饭买单犒劳的都算不错的了，虽然省去的代价远比饭钱多得多… 前一个星期的事情，一举两得，茫然，温情下的真实目的，总是冰凉的，即将下雪的南京…]]></content>
+      <categories>
+        <category>随想</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[2018年12月3日 星期一 大雨]]></title>
+    <url>%2Fnote%2F2018%2F12-03%2F6dde7adf.html</url>
+    <content type="text"><![CDATA[（—）找不到钥匙随意翻了下，想到可能落在家里，但没找到，早晨上的卫生间那管理员的室内也没有…一个快车又是公交的来回，上下班打卡用的虚拟定位赶时间，又翻来翻去在柜子里又找到钥匙；当时怎么就没想到呢，多找一会也不费多少时间。 （二）中途来回跑的红绿灯人行道处，笑着跑过来的美女，穿着格子短裙，白色的丝袜，白色的鞋子，一眼看上去像是没穿鞋子一样跑着,真想用手机拍下来，但没电了…啧；写着很屌丝，看上去很猥琐，O(∩_∩)O （三）猪头肉与红酥手把我吃傻了，的确本来就挺傻的，不远处有免费的关东煮…低成本的不愿意去做，往往去尝试高代价回报低的事情。在超市买了两个垃圾桶加一个垃圾袋，导购员说的那样挺浪费的，因为有专门的垃圾袋一说；到点 洗澡 睡觉。 （四）]]></content>
+      <categories>
+        <category>记事</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[2018年12月2日 星期日 晴]]></title>
+    <url>%2Fnote%2F2018%2F12-02%2Fe3de59c9.html</url>
+    <content type="text"><![CDATA[LG工厂看到检验屏幕的妹子们，应该入世已久可以说是女人们吧，十七八岁至二十多左右大概…我随便说了一句：“我靠，做这种事，怎么受的了，对眼睛刺激太大了”。这时领队叹口气说了一句：“没办法，为了钱，要生活的，你算幸运的”。一起上夜班的其他地区的同厂领队也说了：“如果你待在富士康厂线上，你会想哭”。我大笑着讲：“我是来体验生活的”。 那群妹子听到又是怎么想？我如今做的事本身就很荒诞，社会比理想还现实，现实又比社会还荒诞，又接到猎头的头条应聘前端工程师，想起大学的同学如今之所在，我又是怎么想？ 抖音快手又怎样，GitHub又如何呢？只是选择生活方式不一样，喜爱软件不一样，我又存在走不出自我；其实我和他们比起来也没什么差别，我的学习能力并不高于他们，反而他们远强于我，这就是我失去技能的失业或是说就业状况,不止一次问过我：“大学毕业，啧啧，计算机专业，做这种事？”是啊，被欺诈多了还是落了套，被骗出差，乘上飞机去玩命做着机器人做的事情。 当然，如何把适应环境变成艺术，就像边做活边撩妹一样…如何把空闲时间变成赚钱的艺术…选择高兴或诅丧，从来都不是低级的感觉行事，选择只是高级的行为。 明白道理又是极贵的代价，谁不想跻身那少数，其实吧，谁说非要是科班出生才能做非科班的事？只是选择不同而已，这么多人汇集到一起，总有共同之处，就是迫于无奈做出的选择而已。]]></content>
+      <categories>
+        <category>心情</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[2018年11月29日 星期四 雾]]></title>
+    <url>%2Fnote%2F2018%2F11-29%2F99bad31d.html</url>
+    <content type="text"><![CDATA[]]></content>
+      <categories>
+        <category>图片</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[2018年11月18日 星期日 晴]]></title>
+    <url>%2Fnote%2F2018%2F11-18%2F543af3f5.html</url>
+    <content type="text"><![CDATA[六学、五毛、美分 简直了]]></content>
+      <categories>
+        <category>随想</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[2018年11月16日 星期五 晴]]></title>
+    <url>%2Fnote%2F2018%2F11-16%2Ffdfb778b.html</url>
+    <content type="text"><![CDATA[在常封闭的安全出口门处，前排的白蚂蚁不快不慢地走过，后排有说有笑调情的也有，警卫一直在催促不停地大声的说：“紧张点”；似乎效果并不好，倒是协助的让走到前排的白蚂蚁跑到后面的安全出口门处并说道：“后面的安全门没什么人，想快点出去就去后面的安全门，跑起来”，前排的一群跑，再叫后面的快点跟上，从而使整个队伍积极紧张了起来。…待在原地等待下班并没有去，演习装模做样、演讲滔滔大论什么的，这里即看不到也听不到，我对这些也没什么兴趣。 等待去往南京外资分厂的路上…离去总是匆忙的，总想留住什么，可什么都留不住…不太愉快的记忆…]]></content>
+      <categories>
+        <category>记事</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[2018年11月4日 星期日 小雨转晴]]></title>
+    <url>%2Fnote%2F2018%2F11-04%2F22233d80.html</url>
+    <content type="text"><![CDATA[其实某种意义上来说，现实本身的结局就不是完美的。心血来潮的期望值也没有前面知识的积淀而做，等待的只有落空。今晚再观此番剧有感。]]></content>
+      <categories>
+        <category>随想</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[2018年10月28日 星期日 晴]]></title>
+    <url>%2Fnote%2F2018%2F10-28%2F6c1f9f88.html</url>
+    <content type="text"><![CDATA[安排一些学习计划，做好预算开支，感觉做这种事有文化和没文化又有什么区别呢？ 反正在一起也没几天了，做个告别吧…很多很多，看样子需要改变一下观念了。每一个人都拥有完整的人生，经历如此呈现在我的面前，其实这个世界并不是围着我转… 昨日在与朋友交谈时他们在我面前可有可无而我何尝不是在他们面前可有可无？与食堂大叔交谈时，确实，尝试过了解他们才能得到更多的有效信息。]]></content>
+      <categories>
+        <category>记事</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[2018年10月14日 星期日 晴]]></title>
+    <url>%2Fnote%2F2018%2F10-14%2Fd3b0602b.html</url>
+    <content type="text"><![CDATA[就从这一天开始吧，因为怎么说呢？一离开我的PC实在很难继续写博客下去了，不过再次尝试搭建及发布的时候，其实也没想象中那么难以继续下去，还有时间的话其实并不需要许久… 这些天来，啊…继续…]]></content>
+      <categories>
+        <category>记事</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[空间？最后还是选择了博客]]></title>
+    <url>%2Fnote%2F2018%2F08-06%2Ff0b3744e.html</url>
+    <content type="text"><![CDATA[空间部分图片、文字会受到和谐，日志的编辑工具实在很糟心；qq上熟人也有且网友也多，一些内容也不方便展示，单独去设置特别的那几个实在又有些麻烦，做成相册吧，加载的速度实在太慢，好友动态里的图片也不会正常显示。 本来搭博客做搜索优化是用来发表一些关于技术类文章的，慢慢的一系列自然选择下成了一个写日记、随笔以及笔记的地方了。因为写技术系列的话，已经有gitbook、docsify等诸如此类的文档生成工具了。综上所述，这也就是选择了博客，而将空间关闭了的原因。 反正日记、随笔这些的话，一般来说以我的经历来看，都是在乎自己的多一点，其实别人是并不太关心或是说仔细去看我的日记。再说，之所以看空间是因为有系统动态提醒，倒不是真的对自己的特别关注什么的。每个人都有自己需要做的事，谁没事又没太多感情上的某种联系，干嘛要看我发的没有实际解决问题且纯粹就是记事与抒发情感的日记或是随笔呢？ 感兴趣的始终是少数，朋友其实也亦是如此，更别提及浏览博客的多数陌生人了，有多少闲着没事还特意去看我写的一些日记与随笔呢？真是的！一些心事，想知道的ta就会通过一些方法主动地去知道，不知道的ta也并不想去知道，也许听听你的诉说就完事了。 其实人生真的又有几个知己呢？有的人只能成为普通朋友，有的少数在朋友的基础上或许可以成为知心，成为知心但多数也不一定是爱人；目前，我能确定知道的也就五个不到。将对方当知己，发来却是微信里的支付宝二维码，让我感觉到寒意的同时又让我感到恶心…唉！＞﹏＜ 花费太多时间精力的研究成果，用以尽力去帮助交往较为密切的朋友，ta只是当做理所应当，帮不上那就算了，帮上忙的话也就兴奋一会儿；很多事也是求助于我，然后达成的条件又是这种无理要求，仅是把自己当作解决问题的工具，事情刚解决时也只是说太好了、厉害、哇塞等随意附和且无用还存在虚假的废话，而实际上在问题所解决过后，真的在ta眼中真是一文不值，因为我就是被当作解决问题的工具罢了… 而我呢？太多时间被这些滥烂的词而沉溺其中，真以为在ta心中的位置很重要一样，然而就算解决不了，也会找下一位，只是时间或金钱问题罢了，其实自己只是一个可怜虫。说到底还是交友太少，对ta的一个不了解，不然在我看来付出了这么多，在他人眼里却是一文不值了。 除开真正的知己的话，朋友间友好程度还是靠一直的多联系，此一时彼一时的；这也难怪，不少人都想磨灭感情，其实我也想，特别是在人际关系看似紧密，但实际上薄如纸的今天；但我知道只要是个人，磨灭感情是不可能的，多多少少还是会存在的。 这就是我记录的目的吧，回想往事的时候不至于像学生时代消失得一片空白，也不因错过就一直停留在遗憾中而不珍惜眼前甚至放弃前方的追逐。]]></content>
+      <categories>
+        <category>特别篇</category>
+      </categories>
+  </entry>
+  <entry>
+    <title><![CDATA[next爬坑深度魔改]]></title>
+    <url>%2Fnote%2F2018%2F03-09%2F55b3a5a.html</url>
+    <content type="text"><![CDATA[前言由于相对来说较为“初级”的教程很多，相对于而言，next的搭建过程也就不细说了；hexo水还是有些深。有半点初级基础相对来说会好一点，当然没有任何方面基础也可以，做多了也差不多了。此文章是在hexo已经搭建成功基础之上，且next主题能在显示正确效果下，进行的较为详细的说明。 参考链接因为此类教程很多写的还不错且较为详细，所以没必要重复造轮子。这里还有一些插件项目的补充，可看需求自行选择。 Hexo与NexT主题目录结构 hexo的next主题个性化配置教程 打造个性超赞博客Hexo+NexT+GithubPages的超深度优化 使用Hexo搭建博客的深度优化与定制 Next主题个性化之自动更换背景图片 删除标题上下方横线 文章阴影立体层次边框 添加代码块复制功能 各设备图片显示问题 标签页添加标签云 网站动态标题 修改阅读全文按钮样式 博客部分图标引用 使用Hexo基于GitHub-Pages搭建个人博客（三）（相册的实现） 对Hexo-nexT进行简单SEO优化基于Google收录站点 为Hexo NexT主题添加字数统计功能 need-more-share（主题已自带） hexo-tag-cloud hexo-blog-encrypt 遇到过的坑这里列举常用的，更多详情访问具体项目的issues 设置副标题后显示不出来，要怎么修改？#986 fancybox能否正常使用？ #48 多图功能 图片不能放大 #1043 hexo设置网站的图标Favicon 标签页不能显示标签云#15 btw，如果写作完成且没做任何配置的情况下，hexo g生成有误应该是markdown语法不对 其他细节方面的问题设置CC协议参考wiki，也可选择禁用；使用自己定制的cc协议请参考 hexo的next主题个性化配置教程。 修改站点标题字体themes/next/layout/_partials/header.swig中的custom-logo-site-titlediv部分下添加 123456789&lt;div class=&quot;custom-logo-site-title&quot;&gt; &lt;a href=&quot;&#123;&#123; config.root &#125;&#125;&quot; class=&quot;brand&quot; rel=&quot;start&quot;&gt; &lt;span class=&quot;logo-line-before&quot;&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt; &lt;span class=&quot;site-title&quot; style=&quot; font-family:FreeStyle Script;color: #AC161A;&quot;&gt; &#123;&#123; config.title &#125;&#125; &lt;/span&gt; &lt;span class=&quot;logo-line-after&quot;&gt;&lt;i&gt;&lt;/i&gt;&lt;/span&gt; &lt;/a&gt; &lt;/div&gt; 添加README.md在source根目录下添加README.md，再修改hexo的站点配置文件_config.yml，设置skip_render: README.md保存退出即可。使用hexo d命令就不会在渲染README.md这个文件了。 添加相关文章添加”相关文章”板块实际上是做一次伪升级，因为v5.x并没有，v6.0.x才新增集成的功能；安装npm install hexo-related-popular-posts --save,下载新版本next主题；找到themes\next\layout\_macro\post.swig文件,将如下代码复制在原版本同路径post.swig中,复制位置在支付代码相关部分上方即可例如：代码放在wechat支付的上面。 123&#123;% if theme.related_posts.enable and (theme.related_posts.display_in_home or not is_index) %&#125; &#123;% include &apos;post-related.swig&apos; with &#123; post: post &#125; %&#125; &#123;% endif %&#125; 将themes\next\layout\_macro\post-related.swig文件复制在原版本同目录中；打开新版本主题中的_config.yml将如下代码复制在原版本主题配置文件中 123456789101112# Related popular posts# Dependencies: https://github.com/tea3/hexo-related-popular-postsrelated_posts: enable: true title: # custom header, leave empty to use the default one display_in_home: false params: maxCount: 5 #PPMixingRate: 0.0 #isDate: false #isImage: false #isExcerpt: false 打开themes\next\languages\zh-CN.yml文件找到related_posts，将此行复制到zh-Hans.yml中增加相关中文即可 添加文章结尾标记themes/next/layout/_macro下添加passage-end-tag.swig:12345678910111213141516&lt;div&gt; &#123;% if page.passage_end %&#125; &lt;style&gt; .passage_end::after&#123; content: &quot;- The End -&quot;; text-align:center; color: #252525; display: block; font-size:26px; font-weight:bold; font-family: Vladimir Script; &#125; &lt;/style&gt; &lt;div class=&quot;passage_end&quot;&gt;&lt;/div&gt; &#123;% endif %&#125;&lt;/div&gt; next/layout/_macro/post.swig在相关支付代码之前增加如下代码：12345&lt;div&gt; &#123;% if not is_index %&#125; &#123;% include &apos;passage-end-tag.swig&apos; %&#125; &#123;% endif %&#125;&lt;/div&gt; 即可在front-matter中使用passage_end: true打开文章结尾表语 js文章访问密码优化因为其他博客的文章访问密码章节的js，当用户不输入时点击确定或是取消都弹出密码错误，显得不人性化，为此进行的改进方案；在themes-&gt;next-&gt;layout-&gt;_partials-&gt;head.swig文件，meta标签后任意位置插入。12345678910111213&lt;script&gt; (function()&#123; if('&#123;&#123; page.password &#125;&#125;')&#123; var str = prompt('请输入文章密码'); if (str == null || str=='')&#123; history.back(); &#125;else if(str !== '&#123;&#123; page.password &#125;&#125;')&#123; alert('密码错误'); history.back(); &#125; &#125; &#125;)();&lt;/script&gt; btw，增加确认弹窗，这样就可以在front-matter中provision: true激活弹窗1234567891011&lt;script&gt; (function()&#123; if('&#123;&#123; page.provision &#125;&#125;')&#123; var bool = confirm("请阅读一下条款："+"\n"+"以下文章涉及成人内容，" + "未满18周岁建议在家长指导下观看" ); if(!bool)&#123; history.back(); &#125; &#125; &#125;)();&lt;/script&gt; 自定义样式喜好概览 custom.styl123456789101112131415161718192021222324252627282930313233343536373839404142434445464748495051525354555657585960616263646566676869707172737475767778798081828384858687888990919293949596979899100101102103104105106107108109110111112113114115116117118119120121122123124125126127128129130131132133134135136137138139140141142143144145146147148149150151152/* Custom styles.*/.header &#123; /*用于完全显示一整块背景*/ background: $head-bg; /* background:url(https://s1.ax2x.com/2018/03/13/Eoiz6.jpg);*/ /* background: #F5F5F5;*/ background-size: cover; background-repeat: no-repeat; &#125;/*标题*/.site-meta .site-title &#123; font-size: 50px; font-weight: bolder;&#125;/*副标题*//* .site-subtitle &#123; display: none; &#125;*/.site-subtitle &#123; margin-top: 10px; font-size: 13px; color: #555555;/* color: #ffdf58;*/&#125;/*菜单字体颜色*/// .menu-item a &#123;color:#c7c7c7;&#125;/*菜单悬停颜色*//*.menu .menu-item a:hover &#123; background: #36363c; &#125;*//*移动设备菜单显示扩展*/.site-nav-on &#123; display: none; margin: 0 -10px; padding: 0 10px; clear: both; border-top-style: none; /*border-top: 1px solid #ddd;*/&#125;body &#123; /*随机换图*/ /* background:url(https://source.unsplash.com/random/1600x900); background:url(https://s1.ax2x.com/2018/03/10/EHdHq.jpg); background: #E7E8EA;*/ background-repeat: no-repeat; background-attachment:fixed; background-size: cover; background-position: 50% 50%;&#125;/*文章内容块布局*/.main-inner &#123; margin-top: 10px;/* margin-top: 60px;*/ /*padding: 60px 60px 60px 60px;*/ padding: 10px 1px 1px 1px;/* background: #e6e6e6; */ width:830px;/* hight:720px; */ min-height: 500px; /*透明度*/ opacity: 0.91;&#125; /*内容盒子扩充*/.use-motion .post &#123; BACKGROUND-COLOR: #fff; padding: 40px 30px 40px 30px; border: 1px solid #eaecee; margin: 0 0 40px 0; position: relative; -webkit-box-shadow: 0 4px 12px -1px rgba(36,41,46,.6); -moz-box-shadow: 0 4px 12px -1px rgba(36,41,46,.6); box-shadow: 0 4px 12px -1px rgba(36,41,46,.6);&#125;/*文章顶部内容紧凑*/.posts-expand .post-meta &#123; margin: 3px 0 5px 0;&#125;/*阅读全文按钮部分*/.post-button a:hover &#123; border-bottom-color:#a96363;&#125;/*阅读全文按钮悬停部分*/.btn:hover &#123; border-color: #222; color: #222; background: none;&#125;/*文字以及下划线部分*/.post-button a &#123; padding: 0; font-size: 16px; background: none; border: none; border-bottom: 2px solid #666; transition-property: border;&#125;/*标签悬停颜色*/.posts-expand .post-tags a:hover &#123; background: orange;&#125;/*标签背景色*/.posts-expand .post-tags a &#123; padding: 1px 5px; background: #d6af66; color: #ea1616; font-size: 13px; border-bottom: none; display: inline-block; margin-right: 10px;&#125;/*页脚*/.footer &#123; font-size: 14px; color: $grey-dark; background: #2E2E2E; img &#123; border: none; &#125;&#125;/*页脚内容居中*/.footer-inner &#123; margin: 0 auto; text-align: center;&#125;/* 隐藏分类列表占位符以及列表居中样式调整*/.category-list-item &#123; margin: 5px 10px; text-align: center; /* list-style: none !important;*/&#125;/*侧边信息栏*//* .sidebar-toggle &#123;&#125;*//*侧边回滚顶部栏*//* .back-to-top &#123;&#125;*//*时间侧边栏格式*/#days &#123; display: block; color: #8989A3; font-size: 13px; margin-top: 15px;&#125; 开发者工具很重要可以先使用开发者模式进行预览；在不更改站点、主题配置文件时，可在hexo s环境下调试并保存代码。]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>next</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[next简单seo优化]]></title>
+    <url>%2Fnote%2F2018%2F02-26%2F5e7d6b37.html</url>
+    <content type="text"><![CDATA[设置站点地图 安装sitemap站点地图自动生成插件 1npm install hexo-generator-sitemap --save 在站点配置文件中末尾添加 12sitemap: path: sitemap.xml 站点配置文件url修改为你的网址域名，hexo g之后，在站点根目录的/public生成sitemap.xml文件 在/source中新建文件robots.txt如下（allow,disallow看需求）：1234567891011121314151617User-agent: *Allow: /Allow: /about/Disallow: /archives/Disallow: /categories/Disallow: /tags/Disallow: /photo/Disallow: /vendors/Disallow: /js/Disallow: /css/Disallow: /fonts/Disallow: /vendors/Disallow: /fancybox/Sitemap: https://yourWebSite/sitemap.xml hexo g -d生成并部署说明： robots.txt（统一小写）是一种存放于网站根目录下的ASCII编码的文本文件，它的作用是告诉搜索引擎此网站中哪些内容是可以被爬取的，哪些是禁止爬取的。 Allow字段的值即为允许搜索引擎爬区的内容，可以对应到主题配置文件中的menu目录配置，如果菜单栏还有其他选项都可以按照格式自行添加。 将站点提交至Google google search console,添加站点域名 站点验证选择备用验证,将给出的标签复制到\themes\hexo-theme-next\layout\_partials\head.swig中 robots.txt测试工具并测试 站点地图提交域名中的sitemap.xml文件 google抓取工具，将需要给谷歌收录的url网页进行抓取操作，并请求编入索引 修改文章链接HEXO默认的文章链接形式为domain/year/month/day/postname，默认就是一个四级url，并且可能造成url过长，对搜索引擎是十分不友好的，推荐安装hexo-abbrlink1npm install hexo-abbrlink --save 然后配置_config.yml1234permalink: note/:year/:month_:day/:abbrlink.htmlabbrlink: alg: crc32 # 算法：crc16(default) and crc32 rep: hex # 进制：dec(default) and hex 之后部署一下好了 添加nofollow标签nofollow标签是由谷歌领头创新的一个反垃圾链接的标签，并被ecosia.org、bing(US)等各大搜索引擎广泛支持，引用nofollow标签的目的是：用于指示搜索引擎不要追踪（即抓取）网页上的带有nofollow属性的任何出站链接，以减少垃圾链接的分散网站权重。对\themes\next\layout_partials\footer.swig中的如下部分：12&#123;&#123; __(&apos;footer.powered&apos;, &apos;&lt;a class=&quot;theme-link&quot; href=&quot;http://hexo.io&quot;&gt;Hexo&lt;/a&gt;&apos;) &#125;&#125; 修改为1234&#123;&#123; __(&apos;footer.powered&apos;, &apos;&lt;a class=&quot;theme-link&quot; href=&quot;http://hexo.io&quot; rel=&quot;external nofollow&quot;&gt; Hexo&lt;/a&gt;&apos;) &#125;&#125; 以及将这部分1&lt;a class=&quot;theme-link&quot; href=&quot;https://github.com/iissnan/hexo-theme-next&quot;&gt; 修改为 123&lt;a class=&quot;theme-link&quot; href=&quot;https://github.com/iissnan/hexo-theme-next&quot; rel=&quot;external nofollow&quot;&gt; 对\themes\next\layout_macro\sidebar.swig中的如下部分：1&lt;a href=&quot;&#123;&#123; link &#125;&#125;&quot; target=&quot;_blank&quot;&gt;&#123;&#123; name &#125;&#125;&lt;/a&gt; 修改为1&lt;a href=&quot;&#123;&#123; link &#125;&#125;&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt;&#123;&#123; name &#125;&#125;&lt;/a&gt; 以及将下面代码123&lt;a href=&quot;http://creativecommons.org/licenses/&#123;&#123; theme.creative_commons &#125;&#125;/4.0&quot; class=&quot;cc-opacity&quot; target=&quot;_blank&quot;&gt; 修改成 1234&lt;a href=&quot;http://creativecommons.org/licenses/&#123;&#123; theme.creative_commons &#125;&#125;/4.0&quot; class=&quot;cc-opacity&quot; target=&quot;_blank&quot; rel=&quot;external nofollow&quot;&gt; 相关阅读 SEO优化实战]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>next</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[hexo备份并推送到github]]></title>
+    <url>%2Fnote%2F2018%2F02-26%2Fbafc086b.html</url>
+    <content type="text"><![CDATA[创建远程仓库 … 本地初始化 git init 创建忽略文件 vi .gitignore Git忽略规则 在hexo的根目录下新建README.md 按需分配 12345678.DS_StoreThumbs.dbdb.json *.log.deploy*/node_modules/.npmignorepublic/ Windows10以gitignore.txt保存配置，再另存为并改名 添加所有文件到寄存区 git add . 提交 git commit -m &quot;commit&quot; 添加远程源 git remote add origin yourname@github.com/example.git 提交远程库master分支 git push -u origin master]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[hexo搭建next主题]]></title>
+    <url>%2Fnote%2F2018%2F02-25%2F13e45bd.html</url>
+    <content type="text"><![CDATA[入门前提 git安装 配置SSH说明 Hexo快速入门 hexo安装 hexo部署 hexo主题安装 Permission denied (publickey)问题 git push输入密码的问题 NexT轻松上手 next主题配置 next第三方服务 next项目wiki 备份 Hexo备份并推送到Github]]></content>
+      <categories>
+        <category>笔记</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+        <tag>next</tag>
+      </tags>
+  </entry>
+</search>

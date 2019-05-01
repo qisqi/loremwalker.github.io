@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lorem Walker</title>
+  
+  <subtitle>相对于QQ空间，这也许稍封闭更简致</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://loremwalker.github.io/"/>
+  <updated>2019-05-01T20:12:53.225Z</updated>
+  <id>https://loremwalker.github.io/</id>
+  
+  <author>
+    <name>lorem</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>浏览，plantuml</title>
+    <link href="https://loremwalker.github.io/note/2019/05-02/d9e05b9b.html"/>
+    <id>https://loremwalker.github.io/note/2019/05-02/d9e05b9b.html</id>
+    <published>2019-05-01T19:45:23.000Z</published>
+    <updated>2019-05-01T20:12:53.225Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1"><a href="#1" class="headerlink" title="#1"></a>#1</h2><hr><p>搜索jdk进入官网download，接受许可及下载并安装<br><img src="https://i.postimg.cc/447CVFzv/2019-04-05-222706.png" alt=""></p><p><a href="https://graphviz.gitlab.io/download/" target="_blank" rel="noopener">下载graphviz</a>，<strong>注意：</strong> <strong><em>graphviz</em></strong> <strong>不要安装在C盘上，否则配置环境变量无效</strong><br><img src="https://i.postimg.cc/g2qPf8j2/20190502035702.png" alt=""></p><p>安装完成后运行 <code>sysdm.cpl</code> 打开环境变量并点击<code>高级</code><br><img src="https://i.postimg.cc/pLcVPczm/2019-04-05-230724.png" alt=""></p><p>环境变量 path变量 值路径要与JDK的安装路径一致，graphviz同理。<br><img src="https://i.postimg.cc/6QhKbHcj/2019-04-05-225827.png" alt=""></p><h2 id="2"><a href="#2" class="headerlink" title="#2"></a>#2</h2><hr><p>下载并安装<br><img src="https://i.postimg.cc/htRCYKfs/2019-04-05-231436.png" alt=""></p><p>搜索并安装插件<br><img src="https://i.postimg.cc/zXmhTjtb/2019-04-05-232113.png" alt="">  </p><p>打开测试用的流程图 test.wsd</p><p><img src="https://i.postimg.cc/RVVTWGN7/2019-04-05-232614.png" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      vscode 浏览 plantuml 方式
+    
+    </summary>
+    
+      <category term="test" scheme="https://loremwalker.github.io/categories/test/"/>
+    
+    
+      <category term="graphviz" scheme="https://loremwalker.github.io/tags/graphviz/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2019年4月21日 星期日 阵雨</title>
+    <link href="https://loremwalker.github.io/note/2019/04-21/98994ef8.html"/>
+    <id>https://loremwalker.github.io/note/2019/04-21/98994ef8.html</id>
+    <published>2019-04-20T19:09:25.000Z</published>
+    <updated>2019-04-20T22:30:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>天气实在太差了，搞不好这几个月都是这样…看屏幕外观不良，一个多小时的时间，听了一个胖女人的无聊爱情故事：<br>因在一起五年的男友家庭条件不行，俩人执意在一起后，她娘亲自喝农药自杀相逼，为此她换了三个男友。家亲学历显赫从商从政，为了爱情的自由，来富士康打工。</p><p>听到胖女人介绍她家庭背景，维修半开玩笑半认真的那种动作问那个胖女人的微信（可能吧…不感兴趣），又说如果我来做你男朋友blablabla；判机的时候，维修还问我觉得她说的真假（哦哦，呵呵）；听着她说出和他男友海誓山盟的话，太好笑了…真他妈有趣，这个故事让我想到在事业群的二楼，等下班一个男人向大家诉说他就像电视剧般的爱情故事，他爷爷也是已死反对他与被强奸的女孩结婚。真无聊…</p><p>改善跑到维修区催着我看那些不良，看不良项的不时老会想起要一个近视看屏幕是否存在0.02的物体，这太扯了。刚心里想完这些，改善又说：你那个老乡想你了。（…）维修顺着问我是否找了，我只回答“呃，…”。<br>写到这里，想起了也是大雨那天，安管给我撑伞跟我说：跟你差不多身高的男友，我都没这么累。我始终觉得奇怪，最后她说她男友帮她打伞，我才明白了…她问我是否有女朋友，然后也是打算介绍对象…（我不知道遇到富士康工友，老是催对象是什么原因）</p><p>不清楚，摸不着头脑的事啊，我问安管：我又不帅也没学历更没钱，我就一普工又没什么显眼的表现，为什么还给介绍对象呢？得到了“看的顺眼，人挺好的，单身啊”的回答…</p>]]></content>
+    
+    <summary type="html">
+    
+      真是一个无聊的故事啊...
+    
+    </summary>
+    
+      <category term="心情" scheme="https://loremwalker.github.io/categories/%E5%BF%83%E6%83%85/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>不再从事相关编程</title>
+    <link href="https://loremwalker.github.io/note/2019/04-07/90761367.html"/>
+    <id>https://loremwalker.github.io/note/2019/04-07/90761367.html</id>
+    <published>2019-04-07T10:10:19.000Z</published>
+    <updated>2019-04-20T22:30:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>原来除了做个码农，还有那么多有职业可选择，在网上搜索下职位又到知乎了解下情况；即使闲职被关系占据其中，但还是有不少可选的。技能和学历都是大街众人水准，现已供过于求又太过执着于开发导致失业，浪费了时间和金钱还有就业到好的岗位，简直白费生命。</p><p>认了比自己还小的“姐”到富士康做普工，学历不高、入世较早；待人处世与社会原则等方面比同龄校园大学生稳重成熟的多，当时对我来内心来说特别震撼。19岁，我还在旷课看动漫、打游戏、修电脑做个otaku，社交、旅行等方面真的等于零，我还没入世之前，跟个巨婴基本没差别。</p><p>好几年前在码农群里闲聊时，看到群友又被培训机构收了过万元的学费，就想做个收集培训机构的repo，当时还没有相关repo，且我维护翻墙项目真的太费时间，还要上班到很晚。失败了好几次没成功，那就当是借口好吧；现在又出现了同样的事情，而且这画大饼的智商税已经征收到2w以上，简直触目惊心。</p><p>综上，由此就开始重新做这相关repo并完善下去，令我意外和高兴的是：真的已经有人开始着手做这个搜集黑心机构的名单了。我知道已不在是一开始几乎是一人孤军奋战的感觉，这下我会轻松很多。于是遍开始研究这些吸血机构拉人的运作方式，与名单repo综合在一起并发表在GitHub上。</p>]]></content>
+    
+    <summary type="html">
+    
+      听歌敲键盘写故事...
+    
+    </summary>
+    
+      <category term="特别篇" scheme="https://loremwalker.github.io/categories/%E7%89%B9%E5%88%AB%E7%AF%87/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Sunny Mar.31th 2019 Sunday</title>
+    <link href="https://loremwalker.github.io/note/2019/03-31/3c30c988.html"/>
+    <id>https://loremwalker.github.io/note/2019/03-31/3c30c988.html</id>
+    <published>2019-03-31T10:55:11.000Z</published>
+    <updated>2019-04-20T22:30:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>I’m sick and tried of spam. bcuz,many a stupid HR promised the moon for me, and it gets on my nervous. I really lost my cool during the interview. It’s a Catch-22 situation - without experience you can’t get a job and without a job you get experience.THAT IS SO INTERESTING.</p><p>Just so you know,I’m not a java programmer now ! Stop bothering me ! You’re barking up the wrong tree. </p><p>3.31</p>]]></content>
+    
+    <summary type="html">
+    
+      It&#39;s a long story
+    
+    </summary>
+    
+      <category term="test" scheme="https://loremwalker.github.io/categories/test/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>February 19th Tue Showers cleared up</title>
+    <link href="https://loremwalker.github.io/note/2019/02-19/a43ba177.html"/>
+    <id>https://loremwalker.github.io/note/2019/02-19/a43ba177.html</id>
+    <published>2019-02-19T04:36:18.000Z</published>
+    <updated>2019-04-20T22:30:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Bao Dynasty has a long history.</p><ul><li style="list-style: none"><input type="checkbox"> if it’s true,please put a tick in the box.</li></ul><p><img src="https://i.postimg.cc/C52MJQVY/Snipaste-2019-02-19-12-56-25.png" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      this is shitpost.
+    
+    </summary>
+    
+      <category term="test" scheme="https://loremwalker.github.io/categories/test/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>February 7th Thu Sunny</title>
+    <link href="https://loremwalker.github.io/note/2019/02-07/f58db4cf.html"/>
+    <id>https://loremwalker.github.io/note/2019/02-07/f58db4cf.html</id>
+    <published>2019-02-07T12:13:39.000Z</published>
+    <updated>2019-04-20T22:30:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Whose face is on the 1 CNY ? Suck Bacon !<br><img src="https://i.postimg.cc/J07h2p9g/20190207202635.jpg" alt=" "></p>]]></content>
+    
+    <summary type="html">
+    
+      Writing Tonight
+    
+    </summary>
+    
+      <category term="test" scheme="https://loremwalker.github.io/categories/test/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>February 5th Tues Sunny</title>
+    <link href="https://loremwalker.github.io/note/2019/02-05/633e26c9.html"/>
+    <id>https://loremwalker.github.io/note/2019/02-05/633e26c9.html</id>
+    <published>2019-02-05T10:12:41.000Z</published>
+    <updated>2019-04-20T22:30:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>I take a photo on my Nokia and then go home.That’s it.</p><p><img src="https://images2.imgbox.com/af/11/Af5YgCHu_o.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      so fine.
+    
+    </summary>
+    
+      <category term="test" scheme="https://loremwalker.github.io/categories/test/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>February 3rd Sun Sunny</title>
+    <link href="https://loremwalker.github.io/note/2019/02-03/36156879.html"/>
+    <id>https://loremwalker.github.io/note/2019/02-03/36156879.html</id>
+    <published>2019-02-03T04:47:47.000Z</published>
+    <updated>2019-04-20T22:30:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>I haven’t written a diary for a while.I don’t like delaying my work, If I don’t do it in time, I’ll probably give it up in the end.</p><p><img src="https://i.loli.net/2019/02/03/5c56794e5e346.png" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      That&#39;s not good.
+    
+    </summary>
+    
+      <category term="test" scheme="https://loremwalker.github.io/categories/test/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2018年12月30日 星期日 晴</title>
+    <link href="https://loremwalker.github.io/note/2018/12-30/413a6235.html"/>
+    <id>https://loremwalker.github.io/note/2018/12-30/413a6235.html</id>
+    <published>2018-12-30T11:37:49.000Z</published>
+    <updated>2019-04-20T22:30:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>富士康，是我初次接触社会以来进去的第一家公司。不懂规矩、太过大意犯二导致很多麻烦，就在驻场期间字节跳动打算推个前端开发给我，曾几何时我也想走了啊，但从实际考虑下可能吗？其实不从事本行的也是大有人在，我只是其中之一罢了，也没人强制非要科班出身才能干所专业上的事。</p><p>现在找到一份理想的工作并不容易，处理好关系也不是容易的事，我也知道现所在部门的领导和同事待我不薄，我听到的最多一句话就是简简单单的三个字：好好干。同时，我决定不走了，留在富士康，他们其实很优秀。</p><p>其实看别人写写发发朋友圈或是空间什么的，比自己发到这些平台有意思的多…</p>]]></content>
+    
+    <summary type="html">
+    
+      2018
+    
+    </summary>
+    
+      <category term="记事" scheme="https://loremwalker.github.io/categories/%E8%AE%B0%E4%BA%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2018年12月20日 星期四 晴 （密码）</title>
+    <link href="https://loremwalker.github.io/note/2018/12-20/cee33e6c.html"/>
+    <id>https://loremwalker.github.io/note/2018/12-20/cee33e6c.html</id>
+    <published>2018-12-20T15:16:12.000Z</published>
+    <updated>2019-04-20T22:30:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<script src="https://code.jquery.com/jquery-3.3.1.min.js""></script> <div id="security"> <div class="input-container"> <input type="password" class="form-control" id="pass" placeholder=" 密码：p@ssw0rd " /> <label for="pass"> 密码：p@ssw0rd </label> <div class="bottom-line"></div> </div> </div> <div id="encrypt-blog" style="display:none"> U2FsdGVkX1/H1hTjVOKS2AEtrag27BZiUz1YV7uxaMOt5Ao6Pjs/8PgMxQMcYqJpA3/ROqPbwQeJeYyXN3D5lDIh1hSzxPV+FPYWFV9fr3sIf7xqjqlS/yghPbG7HizbrGdrxEoyxDMMsCSbkkFKITakjVEvBz0bdcC4+3DFLwRtvwZ9FnWGXMM1ladUCi/X+2TZ6GFAJdOqmW4FZ7+duNF0Z0XFN3A8NofLb7/7k4R0SEmRV5X2X5uRi90rPxCucxd/IOXuisJEGlCDy9J71p1ufgq0GHavkOnIL4Sa6/L2/pGEOIFCGh/CPfZHsxbaMBNIPSLjp5AWLLzaPtuRMAPVvEFBv2B6Boao9yEQQwXFhYeSjQedr2Ykj52PVrJMGw0dy8TK0DUQrJb2IniKqK3W68iIFpuEcNZuWOGvq3U= </div><script src="/lib/crypto-js.js"></script><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+    
+    <summary type="html">
+    
+      密码测试
+    
+    </summary>
+    
+      <category term="特别篇" scheme="https://loremwalker.github.io/categories/%E7%89%B9%E5%88%AB%E7%AF%87/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2018年12月15日 星期六 晴转中雨</title>
+    <link href="https://loremwalker.github.io/note/2018/12-15/905b0a26.html"/>
+    <id>https://loremwalker.github.io/note/2018/12-15/905b0a26.html</id>
+    <published>2018-12-15T10:57:32.000Z</published>
+    <updated>2019-04-20T22:30:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="https://images2.imgbox.com/41/aa/Xin3Zl5f_o.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="https://images2.imgbox.com/27/36/Hk6WXScC_o.jpg" alt=""></div></div><div class="group-picture-row"><div class="group-picture-column" style="width: 100%;"><img src="https://images2.imgbox.com/22/42/tK5V1Y5b_o.jpg" alt=""></div></div><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="https://images2.imgbox.com/27/ae/E1E0PBFq_o.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="https://images2.imgbox.com/86/ed/QgErzAx6_o.jpg" alt=""></div></div></div></div>]]></content>
+    
+    <summary type="html">
+    
+      错过季节的短暂旅行 栖霞山
+    
+    </summary>
+    
+      <category term="图片" scheme="https://loremwalker.github.io/categories/%E5%9B%BE%E7%89%87/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2018年12月5日 星期三 雨</title>
+    <link href="https://loremwalker.github.io/note/2018/12-05/4acf4e92.html"/>
+    <id>https://loremwalker.github.io/note/2018/12-05/4acf4e92.html</id>
+    <published>2018-12-05T11:10:36.000Z</published>
+    <updated>2019-04-20T22:30:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><center>（零）</center><br>40岁以下35岁左右封顶，初高中或大专文化，也是无奈的汇集在一起，进厂的基层员工的多数如此；如果不忙厂能不高也就不会被欺诈安排出差了，18云倒是虚拟定位打卡。</p><p>我现在才知道，为什么有的人是真的不愿被派去出差了（实际上是驻场），工种的不同，实在是底层苦力的，可以去；知道的人这么少是因为多数已经不能（回来的话多数情况下只能离职或辞职）或不想回来了，或许是知道太多太多秘密了吧。</p><p>让我知道学历没用的除了其本身的价值还有关系，往往人们最喜欢隐藏最真实的目的或原因，发现又需要很多代价；想起一只猴子去拿香蕉，然后所有猴子被淋湿而挨打，一周之后又换一只新猴如此循环，久而久之也不知为何但就是不能动那香蕉的话题，虽然是假事件，但道理确实也得到了我的事例的印证。</p><p>那么新人与旧人有什么不同呢？混熟与不熟又是怎么一回事呢？全是关系，轻松与否可以说百分之八十左右，二八定律。</p><p><center>（一）</center><br>学生工、大妈大叔、壮年人、社会青年的汇聚之处，其实做事多是学规矩和方式，同工种之间人与人真的多少差别；在乎学历吗？不在乎。在乎具体的年龄吗？也不太在乎。在乎性别吗？其实也不多。在乎个人经历吗？基本没有。真的在乎只是本职工作的是否能干好，这能否干好是否会影响自己工作好的方面或坏的方面，从而做出不同的选择和行为，来达到目的，可以说。</p><p>想起维克多的经历，又感觉自己也是有些相似，只不过我是做活领工资，本质其实也差不多；这个资本主义社会真实的实际的核心是没多少人情，财主的同情心吧，朋友的同情心吧；我基本上被家里赶出来，也不一样也是不回不去了吗？</p><p>还是一样，我也认同了人活着最终都是为了自己爽，很直，很白，往往又隐藏的很深很感情…但实质又是怎么回事，自己都不知道，付诸行动的代价又是时间与生命…</p><p><center>（二）</center><br>得到的是什么，经验？快乐？痛苦？结束还是继续…QIANMONEY如今的确是立足之本呢，不顾一些原则与自尊或是道德的追寻，不择手段也是为了活，更好的活，多数，多数仅此而已。资本家的大工厂已经是创造就业的价值了，剩下就是剥削了；个体呢？像是零件，好一点的资本家话，吃饭买单犒劳的都算不错的了，虽然省去的代价远比饭钱多得多…</p><p>前一个星期的事情，一举两得，茫然，温情下的真实目的，总是冰凉的，即将下雪的南京…</p>]]></content>
+    
+    <summary type="html">
+    
+      没有名称，只有某厂的英文代称，代称指所有人...
+    
+    </summary>
+    
+      <category term="随想" scheme="https://loremwalker.github.io/categories/%E9%9A%8F%E6%83%B3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2018年12月3日 星期一 大雨</title>
+    <link href="https://loremwalker.github.io/note/2018/12-03/6dde7adf.html"/>
+    <id>https://loremwalker.github.io/note/2018/12-03/6dde7adf.html</id>
+    <published>2018-12-03T13:14:02.000Z</published>
+    <updated>2019-04-20T22:30:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><center>（—）</center><br>找不到钥匙随意翻了下，想到可能落在家里，但没找到，早晨上的卫生间那管理员的室内也没有…一个快车又是公交的来回，上下班打卡用的虚拟定位赶时间，又翻来翻去在柜子里又找到钥匙；当时怎么就没想到呢，多找一会也不费多少时间。</p><p><center>（二）</center><br>中途来回跑的红绿灯人行道处，笑着跑过来的美女，穿着格子短裙，白色的丝袜，白色的鞋子，一眼看上去像是没穿鞋子一样跑着,真想用手机拍下来，但没电了…啧；写着很屌丝，看上去很猥琐，O(∩_∩)O</p><p><center>（三）</center><br>猪头肉与红酥手把我吃傻了，的确本来就挺傻的，不远处有免费的关东煮…低成本的不愿意去做，往往去尝试高代价回报低的事情。在超市买了两个垃圾桶加一个垃圾袋，导购员说的那样挺浪费的，因为有专门的垃圾袋一说；到点 洗澡 睡觉。</p><p><center>（四）</center><br><img src="https://i.postimg.cc/N0wp087k/20181203220329.jpg" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      南京路上 夜晚 雨
+    
+    </summary>
+    
+      <category term="记事" scheme="https://loremwalker.github.io/categories/%E8%AE%B0%E4%BA%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2018年12月2日 星期日 晴</title>
+    <link href="https://loremwalker.github.io/note/2018/12-02/e3de59c9.html"/>
+    <id>https://loremwalker.github.io/note/2018/12-02/e3de59c9.html</id>
+    <published>2018-12-02T00:08:36.000Z</published>
+    <updated>2019-04-20T22:30:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>LG工厂看到检验屏幕的妹子们，应该入世已久可以说是女人们吧，十七八岁至二十多左右大概…我随便说了一句：“我靠，做这种事，怎么受的了，对眼睛刺激太大了”。这时领队叹口气说了一句：“没办法，为了钱，要生活的，你算幸运的”。一起上夜班的其他地区的同厂领队也说了：“如果你待在富士康厂线上，你会想哭”。我大笑着讲：“我是来体验生活的”。</p><p>那群妹子听到又是怎么想？我如今做的事本身就很荒诞，社会比理想还现实，现实又比社会还荒诞，又接到猎头的头条应聘前端工程师，想起大学的同学如今之所在，我又是怎么想？</p><p>抖音快手又怎样，GitHub又如何呢？只是选择生活方式不一样，喜爱软件不一样，我又存在走不出自我；其实我和他们比起来也没什么差别，我的学习能力并不高于他们，反而他们远强于我，这就是我失去技能的失业或是说就业状况,不止一次问过我：“大学毕业，啧啧，计算机专业，做这种事？”是啊，被欺诈多了还是落了套，被骗出差，乘上飞机去玩命做着机器人做的事情。</p><p>当然，如何把适应环境变成艺术，就像边做活边撩妹一样…如何把空闲时间变成赚钱的艺术…选择高兴或诅丧，从来都不是低级的感觉行事，选择只是高级的行为。</p><p>明白道理又是极贵的代价，谁不想跻身那少数，其实吧，谁说非要是科班出生才能做非科班的事？只是选择不同而已，这么多人汇集到一起，总有共同之处，就是迫于无奈做出的选择而已。</p>]]></content>
+    
+    <summary type="html">
+    
+      少数
+    
+    </summary>
+    
+      <category term="心情" scheme="https://loremwalker.github.io/categories/%E5%BF%83%E6%83%85/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2018年11月29日 星期四 雾</title>
+    <link href="https://loremwalker.github.io/note/2018/11-29/99bad31d.html"/>
+    <id>https://loremwalker.github.io/note/2018/11-29/99bad31d.html</id>
+    <published>2018-11-29T09:52:52.000Z</published>
+    <updated>2019-04-20T22:30:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<div class="group-picture"><div class="group-picture-container"><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="https://i.loli.net/2018/11/29/5bffc658e40c5.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="https://i.loli.net/2018/11/29/5bffc54e62e3b.jpg" alt=""></div></div><div class="group-picture-row"><div class="group-picture-column" style="width: 50%;"><img src="https://i.loli.net/2018/11/29/5bffc30638b44.jpg" alt=""></div><div class="group-picture-column" style="width: 50%;"><img src="https://i.loli.net/2018/11/29/5bffc6fa964d4.jpg" alt=""></div></div></div></div>]]></content>
+    
+    <summary type="html">
+    
+      迟来的日记，一些图片记录
+    
+    </summary>
+    
+      <category term="图片" scheme="https://loremwalker.github.io/categories/%E5%9B%BE%E7%89%87/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2018年11月18日 星期日 晴</title>
+    <link href="https://loremwalker.github.io/note/2018/11-18/543af3f5.html"/>
+    <id>https://loremwalker.github.io/note/2018/11-18/543af3f5.html</id>
+    <published>2018-11-18T05:27:31.000Z</published>
+    <updated>2019-04-20T22:30:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>六学、五毛、美分 简直了</p>]]></content>
+    
+    <summary type="html">
+    
+      狗嘴吐不出象牙的五毛党真是恶心，老是以最权威正确的核心价值观强制灌输他人，与这些神经病小粉豚争辩，简直浪费时间、浪费生命、浪费金钱，完全就是跟自己过不去。
+    
+    </summary>
+    
+      <category term="随想" scheme="https://loremwalker.github.io/categories/%E9%9A%8F%E6%83%B3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2018年11月16日 星期五 晴</title>
+    <link href="https://loremwalker.github.io/note/2018/11-16/fdfb778b.html"/>
+    <id>https://loremwalker.github.io/note/2018/11-16/fdfb778b.html</id>
+    <published>2018-11-16T03:59:41.000Z</published>
+    <updated>2019-04-20T22:30:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>在常封闭的安全出口门处，前排的白蚂蚁不快不慢地走过，后排有说有笑调情的也有，警卫一直在催促不停地大声的说：“紧张点”；似乎效果并不好，倒是协助的让走到前排的白蚂蚁跑到后面的安全出口门处并说道：“后面的安全门没什么人，想快点出去就去后面的安全门，跑起来”，前排的一群跑，再叫后面的快点跟上，从而使整个队伍积极紧张了起来。…待在原地等待下班并没有去，演习装模做样、演讲滔滔大论什么的，这里即看不到也听不到，我对这些也没什么兴趣。</p><p>等待去往南京外资分厂的路上…离去总是匆忙的，总想留住什么，可什么都留不住…不太愉快的记忆…</p>]]></content>
+    
+    <summary type="html">
+    
+      在 SB 事业群的一天 —— 消防演习
+    
+    </summary>
+    
+      <category term="记事" scheme="https://loremwalker.github.io/categories/%E8%AE%B0%E4%BA%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2018年11月4日 星期日 小雨转晴</title>
+    <link href="https://loremwalker.github.io/note/2018/11-04/22233d80.html"/>
+    <id>https://loremwalker.github.io/note/2018/11-04/22233d80.html</id>
+    <published>2018-11-04T11:57:18.000Z</published>
+    <updated>2019-04-20T22:30:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>其实某种意义上来说，现实本身的结局就不是完美的。心血来潮的期望值也没有前面知识的积淀而做，等待的只有落空。今晚再观此番剧有感。</p>]]></content>
+    
+    <summary type="html">
+    
+      写日记这个东西，应该是我选择的做的事，不应该是一项上级下达的一种待完成的任务
+    
+    </summary>
+    
+      <category term="随想" scheme="https://loremwalker.github.io/categories/%E9%9A%8F%E6%83%B3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2018年10月28日 星期日 晴</title>
+    <link href="https://loremwalker.github.io/note/2018/10-28/6c1f9f88.html"/>
+    <id>https://loremwalker.github.io/note/2018/10-28/6c1f9f88.html</id>
+    <published>2018-10-28T02:27:41.000Z</published>
+    <updated>2019-04-20T22:30:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>安排一些学习计划，做好预算开支，感觉做这种事有文化和没文化又有什么区别呢？ 反正在一起也没几天了，做个告别吧…很多很多，看样子需要改变一下观念了。每一个人都拥有完整的人生，经历如此呈现在我的面前，其实这个世界并不是围着我转…</p><p>昨日在与朋友交谈时他们在我面前可有可无而我何尝不是在他们面前可有可无？与食堂大叔交谈时，确实，尝试过了解他们才能得到更多的有效信息。</p>]]></content>
+    
+    <summary type="html">
+    
+      十月末...
+    
+    </summary>
+    
+      <category term="记事" scheme="https://loremwalker.github.io/categories/%E8%AE%B0%E4%BA%8B/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>2018年10月14日 星期日 晴</title>
+    <link href="https://loremwalker.github.io/note/2018/10-14/d3b0602b.html"/>
+    <id>https://loremwalker.github.io/note/2018/10-14/d3b0602b.html</id>
+    <published>2018-10-14T13:24:15.000Z</published>
+    <updated>2019-04-20T22:30:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>就从这一天开始吧，因为怎么说呢？一离开我的PC实在很难继续写博客下去了，不过再次尝试搭建及发布的时候，其实也没想象中那么难以继续下去，还有时间的话其实并不需要许久…</p><p>这些天来，啊…继续…</p><p><img src="https://i.loli.net/2018/10/14/5bc350d67b71a.png" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      最近发生很多事，很多计划都要重新来过...
+    
+    </summary>
+    
+      <category term="记事" scheme="https://loremwalker.github.io/categories/%E8%AE%B0%E4%BA%8B/"/>
+    
+    
+  </entry>
+  
+</feed>
